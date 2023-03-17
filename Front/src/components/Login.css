@@ -1,0 +1,91 @@
+.Conteiner{
+
+display: flex;
+
+    backdrop-filter: blur(15px);
+    background-color: rgba(137, 43, 226, 0.245);
+    flex-direction: column;
+   padding: 10%;
+   border-radius: 1%;
+  width: 300px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: 130px;
+   margin-left: 150px;
+    margin-bottom: 25%;
+ box-shadow: 0 10px 30px #000;
+    
+}
+.user{
+   
+   font-size: 30px;
+   margin-bottom: 3%;
+
+  
+}
+#pass{
+   
+    font-size: 30px;
+   margin-bottom: 3%;
+   
+}
+#button{
+    border: 1px;
+    border-color: brown;
+    border-radius: 10px;
+    font-size: 15px;
+   background-color: crimson;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.danger{
+
+     padding-top: 9px;
+    padding-bottom: 9px;
+    color: rgb(229, 63, 8);
+}
+.warning{
+   
+    border-radius: 20px;
+    background-color: rgb(246, 246, 246);
+    color: rgb(249, 7, 7);
+}
+.ALL{
+display: flex;
+background-color:rgb(47, 7, 128);
+
+}
+.welcome{
+    background-image: url("../../../imagen/maxresdefault.jpg");
+    font-size: 35px;
+margin-top: 5%;
+margin-bottom: 6%;
+padding: 5%;
+margin-left: 100px;
+border: 10px;
+border: solid;
+border-radius: 20px;
+border-color: black;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+    font-family: sans; color: rgb(13, 255, 0);
+}
+#welcome1{
+    font-size: 20px;
+    background-color: aliceblue;
+    border-style: hidden;
+     border: 9px;
+    border-radius: 15px;
+    width: 30%;
+    height: 10%;
+}
+.imp{
+   
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color:rgba(207, 103, 172, 0.181); 
+    border: 1%;
+    border-color: rgba(26, 14, 131, 0.128);
+    color: black;
+}

@@ -1,0 +1,41 @@
+.Contenido{
+  display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ margin-top: 5.6%;
+}
+.Caja{
+    border: 3px  solid  rgb(21, 192, 66);
+   color:rgb(59, 223, 168) ;
+   border-radius: 15px;
+   padding: 0%;
+    background-image: url("../../../imagen/las_estrellas_tienen_luz_propia_1578_orig.jpg");
+    
+   
+}
+#boton{
+    width: 13%;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    background-color: red;
+    margin: 5%;
+   
+}
+.OtraCaja{
+    border-radius: 5px;
+    margin: 5px;
+    background-color: rgb(44, 33, 116);
+    display: flex;
+    justify-content: space-around;
+
+}
+#tru{
+    border-color: rgba(0, 0, 0, 0);
+background-color: rgba(4, 136, 251, 0);
+}
+#fal{
+    border-color: rgba(0, 0, 0, 0);
+background-color: rgba(0, 136, 255, 0);
+}

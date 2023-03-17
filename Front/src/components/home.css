@@ -1,0 +1,17 @@
+.conteiner{
+    font-size: 20px;
+    backdrop-filter: blur(15px);
+padding: 9%;
+padding-bottom: 0%;
+border: 4px;
+border-style: solid;
+border-color: black;
+border-radius: 15px;
+box-shadow: 0 10px 30px #000;
+margin-top: 6%;
+
+}
+#text{
+    margin-top: 0%;
+margin-bottom: 29%;
+}

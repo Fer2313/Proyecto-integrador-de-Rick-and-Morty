@@ -1,0 +1,15 @@
+.conteiner{
+    margin-bottom: 350px;
+}
+.h1{
+    margin-top: 100px;
+    margin-bottom: 170px;
+}
+#but{
+    font-size: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding-left:  20px;
+    padding-right: 20px;
+  
+}
